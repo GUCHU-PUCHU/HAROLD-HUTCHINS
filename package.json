@@ -37,7 +37,7 @@
     "googlethis": "^1.8.0",
     "image-downloader": "^4.3.0",
     "jim": "^0.0.2",
-    "jimp": "",
+    "jimp": "^0.22.7",
     "moment-timezone": "^0.5.43",
     "node-cron": "^3.0.3",
     "node-superfetch": "^0.3.3",
